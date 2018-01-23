@@ -1,0 +1,62 @@
+/*
+Theme Name: lema&grille
+Theme URI: http://lemagrille.com
+Author: Cosmic Desarrollo Web
+Author URI: http://cosmicdesarrolloweb.com/
+Description: Plantilla creada exclusivamente para la asociación Lema y Grille, basado en Clasificación Arancelaria
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: lemagrille
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+This theme, like WordPress, is licensed under the GPL.
+*/
+
+.timeline>li .timeline-image {
+    color: #fff;
+    border: none;
+    border-radius: 0;
+}
+.timeline>li .timeline-image {
+    border: 0px solid #e9ecef;
+    border-radius: 0;
+    background-color: transparent ;
+}
+
+.timeline>li .timeline-image.colored {
+	background: #008584;
+	  border-radius: 100%;
+}
+.comentarios {
+	padding-top: 15px;
+    margin-top: 45px;
+}
+.languages {
+	position: fixed;
+	top:10px;
+	right: 10px;
+	padding: 10px;
+	z-index: 50;
+	background: #000;
+	border-radius: 5px;
+}
+li.nav-item img {
+padding-top: 7px;
+}
+.centeredui {
+	padding-top: 7px;
+}
+.entry-body img {
+	max-width: 100%;
+}
+section.post_content {
+    padding: 20px 0;
+}
+h2 {
+	margin-bottom: 30px;
+}
+.sidebarclass {
+    background: #f9f9f9;
+    padding: 20px 0;
+    border-radius: 5px;
+}
